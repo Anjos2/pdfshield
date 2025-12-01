@@ -1,0 +1,112 @@
+{
+  "app": {
+    "name": "PDFShield",
+    "tagline": "Protege tus documentos. Trabaja sin conexion.",
+    "footer": "Tus archivos nunca salen de tu computadora",
+    "support": "Apoyar este proyecto",
+    "createdBy": "Creado por Joseph",
+    "viewCode": "Ver codigo fuente",
+    "updatesMessage": "Actualizaciones y sugerencias via LinkedIn"
+  },
+  "nav": {
+    "merge": "Unir PDFs",
+    "split": "Dividir PDF",
+    "edit": "Editar PDF",
+    "compress": "Comprimir",
+    "watermark": "Marca de agua",
+    "imagesToPdf": "Imagenes a PDF"
+  },
+  "donate": {
+    "title": "Apoyar PDFShield",
+    "subtitle": "Ayuda a mantener este proyecto gratis y de codigo abierto",
+    "scanQR": "Escanea con Yape para donar",
+    "or": "o",
+    "patreon": "Apoyar en Patreon",
+    "thanks": "Gracias por tu apoyo!"
+  },
+  "common": {
+    "selectFiles": "Seleccionar archivos",
+    "dragDrop": "o arrastra y suelta aqui",
+    "process": "Procesar",
+    "download": "Descargar",
+    "clear": "Limpiar todo",
+    "addMore": "Agregar mas archivos",
+    "processing": "Procesando...",
+    "success": "Listo!",
+    "error": "Ocurrio un error",
+    "pages": "paginas",
+    "size": "Tamano",
+    "remove": "Eliminar"
+  },
+  "merge": {
+    "title": "Unir PDFs",
+    "description": "Combina varios archivos PDF en un solo documento",
+    "dropzone": "Suelta archivos PDF aqui",
+    "reorder": "Arrastra para reordenar",
+    "mergeButton": "Unir PDFs"
+  },
+  "split": {
+    "title": "Dividir PDF",
+    "description": "Extrae paginas especificas de un PDF",
+    "dropzone": "Suelta un archivo PDF aqui",
+    "selectPages": "Selecciona las paginas a extraer",
+    "pageRange": "Rango de paginas (ej: 1-3, 5, 7-10)",
+    "splitButton": "Dividir PDF"
+  },
+  "compress": {
+    "title": "Comprimir PDF",
+    "description": "Reduce el tamano del archivo PDF",
+    "dropzone": "Suelta un archivo PDF aqui",
+    "quality": "Calidad",
+    "high": "Alta",
+    "medium": "Media",
+    "low": "Baja",
+    "compressButton": "Comprimir PDF",
+    "reduction": "Tamano reducido en"
+  },
+  "imagesToPdf": {
+    "title": "Imagenes a PDF",
+    "description": "Crea un PDF a partir de imagenes",
+    "dropzone": "Suelta imagenes aqui",
+    "reorder": "Arrastra para reordenar",
+    "createButton": "Crear PDF"
+  },
+  "settings": {
+    "language": "Idioma",
+    "theme": "Tema"
+  },
+  "edit": {
+    "title": "Editar PDF",
+    "description": "Rota, elimina y reordena paginas en tu PDF",
+    "dropzone": "Suelta un archivo PDF aqui",
+    "selectPages": "Selecciona las paginas a editar",
+    "rotateLeft": "Rotar izquierda",
+    "rotateRight": "Rotar derecha",
+    "delete": "Eliminar seleccion",
+    "selectAll": "Seleccionar todo",
+    "deselectAll": "Deseleccionar todo",
+    "moveLeft": "Mover a la izquierda",
+    "moveRight": "Mover a la derecha",
+    "dragToReorder": "Arrastra para reordenar",
+    "saveButton": "Guardar cambios"
+  },
+  "watermark": {
+    "title": "Agregar Marca de Agua",
+    "description": "Agrega texto o imagen como marca de agua a tu PDF",
+    "dropzone": "Suelta un archivo PDF aqui",
+    "type": "Tipo de marca",
+    "text": "Texto",
+    "image": "Imagen",
+    "textPlaceholder": "Ingresa el texto de la marca",
+    "position": "Posicion",
+    "center": "Centro",
+    "diagonal": "Diagonal",
+    "topLeft": "Arriba izquierda",
+    "topRight": "Arriba derecha",
+    "bottomLeft": "Abajo izquierda",
+    "bottomRight": "Abajo derecha",
+    "opacity": "Opacidad",
+    "fontSize": "Tamano de fuente",
+    "addButton": "Agregar marca de agua"
+  }
+}

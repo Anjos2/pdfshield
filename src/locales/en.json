@@ -1,0 +1,112 @@
+{
+  "app": {
+    "name": "PDFShield",
+    "tagline": "Shield your documents. Work offline.",
+    "footer": "Your files never leave your computer",
+    "support": "Support this project",
+    "createdBy": "Created by Joseph",
+    "viewCode": "View source code",
+    "updatesMessage": "Updates and suggestions via LinkedIn"
+  },
+  "nav": {
+    "merge": "Merge PDFs",
+    "split": "Split PDF",
+    "edit": "Edit PDF",
+    "compress": "Compress",
+    "watermark": "Watermark",
+    "imagesToPdf": "Images to PDF"
+  },
+  "donate": {
+    "title": "Support PDFShield",
+    "subtitle": "Help keep this project free and open source",
+    "scanQR": "Scan with Yape to donate",
+    "or": "or",
+    "patreon": "Support on Patreon",
+    "thanks": "Thank you for your support!"
+  },
+  "common": {
+    "selectFiles": "Select files",
+    "dragDrop": "or drag and drop here",
+    "process": "Process",
+    "download": "Download",
+    "clear": "Clear all",
+    "addMore": "Add more files",
+    "processing": "Processing...",
+    "success": "Done!",
+    "error": "An error occurred",
+    "pages": "pages",
+    "size": "Size",
+    "remove": "Remove"
+  },
+  "merge": {
+    "title": "Merge PDFs",
+    "description": "Combine multiple PDF files into one document",
+    "dropzone": "Drop PDF files here",
+    "reorder": "Drag to reorder",
+    "mergeButton": "Merge PDFs"
+  },
+  "split": {
+    "title": "Split PDF",
+    "description": "Extract specific pages from a PDF",
+    "dropzone": "Drop a PDF file here",
+    "selectPages": "Select pages to extract",
+    "pageRange": "Page range (e.g., 1-3, 5, 7-10)",
+    "splitButton": "Split PDF"
+  },
+  "compress": {
+    "title": "Compress PDF",
+    "description": "Reduce PDF file size",
+    "dropzone": "Drop a PDF file here",
+    "quality": "Quality",
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low",
+    "compressButton": "Compress PDF",
+    "reduction": "Size reduced by"
+  },
+  "imagesToPdf": {
+    "title": "Images to PDF",
+    "description": "Create a PDF from images",
+    "dropzone": "Drop images here",
+    "reorder": "Drag to reorder",
+    "createButton": "Create PDF"
+  },
+  "settings": {
+    "language": "Language",
+    "theme": "Theme"
+  },
+  "edit": {
+    "title": "Edit PDF",
+    "description": "Rotate, delete, and reorder pages in your PDF",
+    "dropzone": "Drop a PDF file here",
+    "selectPages": "Select pages to edit",
+    "rotateLeft": "Rotate left",
+    "rotateRight": "Rotate right",
+    "delete": "Delete selected",
+    "selectAll": "Select all",
+    "deselectAll": "Deselect all",
+    "moveLeft": "Move left",
+    "moveRight": "Move right",
+    "dragToReorder": "Drag to reorder",
+    "saveButton": "Save changes"
+  },
+  "watermark": {
+    "title": "Add Watermark",
+    "description": "Add text or image watermark to your PDF",
+    "dropzone": "Drop a PDF file here",
+    "type": "Watermark type",
+    "text": "Text",
+    "image": "Image",
+    "textPlaceholder": "Enter watermark text",
+    "position": "Position",
+    "center": "Center",
+    "diagonal": "Diagonal",
+    "topLeft": "Top left",
+    "topRight": "Top right",
+    "bottomLeft": "Bottom left",
+    "bottomRight": "Bottom right",
+    "opacity": "Opacity",
+    "fontSize": "Font size",
+    "addButton": "Add watermark"
+  }
+}
